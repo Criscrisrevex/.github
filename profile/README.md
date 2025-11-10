@@ -16,7 +16,7 @@ VALORADA[^1] is a project funded by the European Commission in the framework of 
 
 * Hence, municipal/regional data and information have a “potential climate value”. But this climate value is not always evident, and it has to be revealed and realised. 
 
-The documentation found here is designed to help local and regional authorities identify, assess, and enhance the “climate value” of the data they collect, in order to better understand and address local climate risks. It introduces practical tools—including Climate Impact Chains, the Adaptation Catalogue, Data Valuation Metrics, and visualization examples—to integrate local data management with climate adaptation planning and decision-making.
+The documentation found here is designed to help local and regional authorities identify, assess, and enhance the “climate value” of the data they collect, in order to better understand and address local climate risks. It introduces practical tools—including Climate Impact Chains, the Adaptation Catalogue, [Data Valuation Metrics]: (https://github.com/valorada/Data-Valuation-Framework), and visualization examples—to integrate local data management with climate adaptation planning and decision-making.
 Overall, this methodological package aims to support local authorities to tap on the climate value of data and information they produce and collect.
 It presents a collection of methodologies that function as a guideline to improve data management practices for the sake of understanding, monitoring and addressing climate risks at local levels. 
 
